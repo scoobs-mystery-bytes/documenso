@@ -1,0 +1,19 @@
+packages/lib/utils/team-global-settings-to-branding.ts
+  s_a16eae36245cb3::t_17cab1367866fc 5-6,13-14,25,34-35,46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f2201acb9b1fe80f8c83c972275755cbe58b01a4",
+  "prompts": {},
+  "sessions": {
+    "s_a16eae36245cb3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a137f1-9974-7333-9973-be233e5bd64a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "scoobs-mystery-bytes <15992407+scoobs-mystery-bytes@users.noreply.github.com>"
+    }
+  }
+}
