@@ -1,0 +1,23 @@
+packages/prisma/schema.prisma
+  s_a16eae36245cb3::t_be599db0a5995b 988
+packages/prisma/migrations/20260530203345_merge_conflicts_resolved/migration.sql
+  s_a16eae36245cb3::t_be599db0a5995b 2
+packages/lib/constants/organisations.ts
+  s_a16eae36245cb3::t_be599db0a5995b 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fde66b8fe414e7987a67bbba6f148a6a55a009b4",
+  "prompts": {},
+  "sessions": {
+    "s_a16eae36245cb3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a137f1-9974-7333-9973-be233e5bd64a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "scoobs-mystery-bytes <15992407+scoobs-mystery-bytes@users.noreply.github.com>"
+    }
+  }
+}
