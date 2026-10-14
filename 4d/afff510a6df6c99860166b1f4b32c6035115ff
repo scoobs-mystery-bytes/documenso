@@ -1,0 +1,32 @@
+packages/app-tests/e2e/teams/branding-logo-size-email-templates.spec.ts
+  s_a16eae36245cb3::t_3c3291011b0bb9 20,40,61,81,101,112,124,132,135,148,170
+packages/prisma/migrations/20261013120000_semantic_branding_logo_sizes/migration.sql
+  s_a16eae36245cb3::t_3c3291011b0bb9 1-19
+packages/lib/constants/organisations.ts
+  s_a16eae36245cb3::t_3c3291011b0bb9 4,10-16,18-21,29
+packages/prisma/schema.prisma
+  s_a16eae36245cb3::t_3c3291011b0bb9 988
+packages/app-tests/e2e/teams/branding-logo-size-integration.spec.ts
+  s_a16eae36245cb3::t_3c3291011b0bb9 82,85,123,166,180,219-220,223
+packages/email/template-components/template-branding-logo.tsx
+  s_a16eae36245cb3::t_3c3291011b0bb9 1-2
+  s_a16eae36245cb3::t_7505dc74af520a 30
+apps/remix/app/components/forms/branding-preferences-form.tsx
+  s_a16eae36245cb3::t_3c3291011b0bb9 8,46,92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4dafff510a6df6c99860166b1f4b32c6035115ff",
+  "prompts": {},
+  "sessions": {
+    "s_a16eae36245cb3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a137f1-9974-7333-9973-be233e5bd64a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "scoobs-mystery-bytes <15992407+scoobs-mystery-bytes@users.noreply.github.com>"
+    }
+  }
+}
