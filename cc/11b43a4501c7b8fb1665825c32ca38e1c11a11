@@ -1,0 +1,19 @@
+packages/lib/utils/teams.ts
+  s_a16eae36245cb3::t_0af0ca352250b2 223-224
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cc11b43a4501c7b8fb1665825c32ca38e1c11a11",
+  "prompts": {},
+  "sessions": {
+    "s_a16eae36245cb3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a137f1-9974-7333-9973-be233e5bd64a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "scoobs-mystery-bytes <15992407+scoobs-mystery-bytes@users.noreply.github.com>"
+    }
+  }
+}
